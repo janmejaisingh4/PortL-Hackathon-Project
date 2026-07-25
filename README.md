@@ -148,10 +148,4 @@ This phase establishes the Expo shell, routing, theme, and core app structure. T
 - Android build signing and EAS release automation.
 
 ## Demo-video link placeholder
-TBD
-
-## APK link placeholder
-TBD
-
-## License
-MIT
+[Demo Video](https://drive.google.com/file/d/1w61TJ2s_u8VZezhW6n2eFNm-U_eQE3al/view?usp=sharing)
